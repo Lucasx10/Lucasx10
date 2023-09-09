@@ -1,11 +1,12 @@
 <img align="left" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="50px"/>
+<img align="right" width="160" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613" style="border-radius: 50px;">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=300&color=0DDF26&width=450&lines=Hi!;I'm+Lucas+Prado)](https://git.io/typing-svg)
-<img align="right" width="160" height="180" src="https://media1.tenor.com/images/68e8337fb4eb7e40645d832c64762a8b/tenor.gif?itemid=19443613" style="border-radius: 50px;">
+  
+###  📊 Stats :
 <div>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api?username=Lucasx10&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucasx10&layout=compact&langs_count=6&theme=react"/>
-
 </div>
  <br>
  
